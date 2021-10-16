@@ -5,3 +5,4 @@ Yuk Bangkit Series
 - Laravel
 - PHP
 - JavaScript
+- JQuery
